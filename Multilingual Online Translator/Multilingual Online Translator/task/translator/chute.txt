@@ -1,0 +1,84 @@
+Arabic Translations:
+سقوط
+
+Arabic Examples:
+Clüver meurt dans une chute d'escalier.
+وقد توفي غولد في حادثة سقوط عن السلالم.
+
+German Translations:
+Fall
+
+German Examples:
+Nous commençons actuellement à cueillir les fruits de la chute du rideau de Fer.
+Wir beginnen gerade, die Früchte zu ernten, die nach dem Fall des Eisernen Vorhangs gesät wurden.
+
+English Translations:
+fall
+
+English Examples:
+Levez-vous lentement et stabilisez-vous pour éviter toute chute.
+Get up slowly and steady yourself to prevent a fall.
+
+Spanish Translations:
+caída
+
+Spanish Examples:
+Il doit pouvoir amortir une chute.
+Si se tropieza otra vez, tiene que poder evitar la caída.
+
+Hebrew Translations:
+נפילה
+
+Hebrew Examples:
+Vilaine chute, mais ça ira.
+נפילה רעה, אבל הוא יהיה בסדר.
+
+Japanese Translations:
+落下
+
+Japanese Examples:
+Une chute de cette hauteur aurait fracassé ton cousin.
+あの高さからの落下は、　あなたのいとこを慌てさせたわ。
+
+Dutch Translations:
+val
+
+Dutch Examples:
+Trois semaines d'ordures auront amorti la chute.
+Er moet ongeveer afval van drie weken liggen te rotten om hun val te breken.
+
+Polish Translations:
+upadek
+
+Polish Examples:
+Courtney Alderman aurait fait une chute fatale.
+Członkini obsady, Courtney Alderman, przytrafił się upadek, który podobno mógł być śmiertelny.
+
+Portuguese Translations:
+queda
+
+Portuguese Examples:
+Riesen peut seulement retarder sa chute.
+O Riesen apenas consegue retardar a sua queda do poder por pouco tempo.
+
+Romanian Translations:
+cădere
+
+Romanian Examples:
+Tout concorde avec une chute de très haut.
+Totul este în concordanță cu o cădere de la o înălțime mare.
+
+Russian Translations:
+падение
+
+Russian Examples:
+Il a pu utiliser ses pouvoirs pour ralentir ma chute.
+Нет, он мог использовать свои способности, чтобы замедлять мое падение.
+
+Turkish Translations:
+düşüş
+
+Turkish Examples:
+50% de chute depuis Juin.
+Bu yılda Haziran ayından bu yana düşüş yüzde 50'ye dayandı.
+

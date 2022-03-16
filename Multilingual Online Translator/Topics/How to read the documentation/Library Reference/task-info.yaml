@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: the syntax and "core semantics" of the language
+- text: the installation of Python environment on different platforms
+- text: the capabilities of third-party Python libraries
+- text: the capabilities of the standard Python libraries
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12126#comment
+status: Solved
+record: -1
